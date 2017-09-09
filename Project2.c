@@ -3,7 +3,7 @@
 *    Author: Anjana Senanayake
 *    Date: 2016  
 *    Code version: v1.5
-*    Availability: https://github.com/AnjanaSenanayake/Mandelbrot-Julia-
+*    Availability: https://github.com/AnjanaSenanayake/word-counter
 *
 ***************************************************************************************/
 
